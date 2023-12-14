@@ -9,7 +9,7 @@
 
 Free, feature-rich, gui-integrated geometry dash mod menu
 
-![menu screen](https://github.com/maxnut/GDMegaOverlay/blob/main/docs/img/banner.png)
+[![menu screen](https://github.com/maxnut/GDMegaOverlay/blob/main/docs/img/banner.png)
 
 ## Features
 
